@@ -1,0 +1,20 @@
+table, td, th{
+    border: solid black;
+}
+table{
+    border-collapse: collapse;
+}
+.head{
+    background-color:rgb(149, 63, 63);
+    color:white; 
+}
+.td1{
+background-color:rgb(201, 124, 111);
+color:white;
+}
+.td2{
+background-color:rgb(237, 211, 207);
+}
+.td3{
+background-color:rgb(197, 188, 188);
+}
